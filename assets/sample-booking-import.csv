@@ -1,0 +1,2 @@
+_id,alias,title,nickName,propertyId,checkIn,checkOut,pricePerNight,source,sourceConfirmation,firstName,lastName,guestTotal,adults,children,infants,email,phone,dateBooked,dateInquired,bookingStatus,requiresConfirmation,confirmationCode
+optional field,optional field can be used in place of propertyId,optional field can be used in place of propertyId,optional field can be used in place of propertyId,5cb8e4fd562fe911a8ece5b4,4/1/2019,4/3/2019,350,airbnb,DLKJNFHB123987\,John,Smith,4,3,1,0,john.smith@fake.com,305-555-5555,2/12/2019,2/6/2019,confirmed,TRUE,12493875
